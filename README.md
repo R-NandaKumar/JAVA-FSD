@@ -1,5 +1,4 @@
-
-                     PHASE 01
+PHASE 01
 
 This repository contain all the Phase 01 
 Assited practise Projects and Practise projects documents
