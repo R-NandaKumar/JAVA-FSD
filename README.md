@@ -10,7 +10,7 @@ Assisted practise Projects and Practise projects documents
  
  - [Lesson 01 to 03](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Assisted_Practice_Projects_Phase_01/src/com)
  - [Lesson 04 & 05](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Assisted_Practice_Projects_Phase_01/src/DataStructureAndAlgorithm)
- - [Bug fixe Practise projects](https://github.com/R-NandaKumar/Java-Fsd/tree/main/BugFix(Practise_Project))
+ - [Bug fix Practise projects](https://github.com/R-NandaKumar/Java-Fsd/tree/main/BugFix(Practise_Project))
 
 ## Documentation
 
