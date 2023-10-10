@@ -33,9 +33,9 @@ Assited practise Projects
  - [Lesson 01(Servlet)](https://github.com/R-NandaKumar/Java-Fsd/blob/main/Servlets(PHASE_02%40lesson_01).zip)
  - [Lesson 02(JDBC)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/jdbc(PHASE_02%40Lesson_02))
  - [Lesson 03]()
-   [Hibernate-01](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate01(PHASE_02%40Lesson_03))
-   [Hibernate-02](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate02)
-   [Hibernate-03](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate03)
+   [(Hibernate-01)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate01(PHASE_02%40Lesson_03))
+   [(Hibernate-02)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate02)
+   [(Hibernate-03)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate03)
  - [Lesson 04(JSP)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/JSP(PHASE_02%40Lesson_04))
 
 
