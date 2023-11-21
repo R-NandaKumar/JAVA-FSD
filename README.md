@@ -54,6 +54,14 @@ Assisted practise Projects
  - [Phase 03(Project-3)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%2003%20Assisted%20Project%2003)
  - [Phase 03(Project-4)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%2003%20Assisted%20Project%2004)
 
+## Assisted practise Projects solution links
+
+
+ 
+ - [Phase 04(Project-1)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%204%20Assisted%20Project-1)
+ - [Phase 04(Project-2)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%204%20Assisted%20Project-2)
+ - [Phase 04(Project-3)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%204%20Assisted%20Project-3)
+ 
 
 
 
