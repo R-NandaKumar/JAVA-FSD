@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  angular-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: soumyadocker26/angular-app:latest
+    ports:
+      - "8080:80"
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    external: true
