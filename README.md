@@ -3,7 +3,7 @@
 
 This repository contain all the Phase 01 
 Assisted practise Projects and Practise projects documents
-![Logo](https://cookinginthekeys.com/wp-content/uploads/2023/03/phase-1.jpg)
+
 
 
 ## Assisted practise Projects solution links
