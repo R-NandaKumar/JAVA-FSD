@@ -6,7 +6,7 @@ Assisted practise Projects and Practise projects documents
 
 
 
-## Live virtual class solution links
+## Assisted practise Projects solution links
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
  - [Lesson 01 to 03](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Assisted_Practice_Projects_Phase_01/src/com)
