@@ -1,5 +1,5 @@
 
-                   <span style="color:blue">PHASE 01</span>
+                   PHASE 01
 
 This repository contain all the Phase 01 
 Assisted practise Projects and Practise projects documents
