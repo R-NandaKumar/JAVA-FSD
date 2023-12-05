@@ -1,9 +1,9 @@
 
-                   PHASE 01
+                   ✨PHASE 01✨
 
 This repository contain all the Phase 01 
 Assisted practise Projects and Practise projects documents
-
+![Logo](https://cookinginthekeys.com/wp-content/uploads/2023/03/phase-1.jpg)
 
 
 ## Assisted practise Projects solution links
@@ -19,7 +19,7 @@ Assisted practise Projects and Practise projects documents
 
 [Practise Projects pdf files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Practise_Project)
 
-                       PHASE 02
+                      ✨PHASE 02✨
 
 This repository contain all the Phase 02 
 Assisted practise Projects 
@@ -38,7 +38,7 @@ Assisted practise Projects
    [(Hibernate-03)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Hibernate03)
  - [Lesson 04(JSP)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/JSP(PHASE_02%40Lesson_04))
 
-                      PHASE 03
+                      ✨PHASE 03✨
 
 This repository contain all the Phase 03 
 Assisted practise Projects 
@@ -55,7 +55,7 @@ Assisted practise Projects
  - [Phase 03(Project-4)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%2003%20Assisted%20Project%2004)
 
 
-                    PHASE 04
+                    ✨PHASE 04✨
 
 This repository contain all the Phase 04 
 Assisted practise Projects 
@@ -69,7 +69,7 @@ Assisted practise Projects
  - [Phase 04(Project-3)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%204%20Assisted%20Project-3)
 
 
-                   PHASE 05
+                   ✨PHASE 05✨
 
 This repository contain all the Phase 05 
 Assisted practise Projects 
