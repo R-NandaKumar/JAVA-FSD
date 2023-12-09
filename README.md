@@ -1,7 +1,7 @@
 
-                   ✨PHASE 01✨
+                      ✨PHASE 01✨
 
-This repository contain all the Phase 01 
+This repository contain all the Phase 01 TO  Phase 06 
 Assisted practise Projects and Practise projects documents
 
 
@@ -17,12 +17,10 @@ Assisted practise Projects and Practise projects documents
 
 ## Documentation
 
-[Practise Projects pdf files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Practise_Project)
+- [Practise Projects pdf files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Practise_Project)
+- [All Practise Project PDF files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/All_%20Practise_Project%20_PDF)
 
 
-## Documentation
-
-[All Practise Project PDF files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/All_%20Practise_Project%20_PDF)
 
                       ✨PHASE 02✨
 
@@ -60,7 +58,7 @@ Assisted practise Projects
  - [Phase 03(Project-4)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%2003%20Assisted%20Project%2004)
 
 
-                    ✨PHASE 04✨
+                     ✨PHASE 04✨
 
 This repository contain all the Phase 04 
 Assisted practise Projects 
@@ -74,7 +72,7 @@ Assisted practise Projects
  - [Phase 04(Project-3)](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Phase%204%20Assisted%20Project-3)
 
 
-                   ✨PHASE 05✨
+                     ✨PHASE 05✨
 
 This repository contain all the Phase 05 
 Assisted practise Projects 
