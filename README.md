@@ -18,6 +18,7 @@ Assisted practise Projects and Practise projects documents
 ## Documentation
 
 [Practise Projects pdf files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/Practise_Project)
+[All Practise Project PDF files](https://github.com/R-NandaKumar/Java-Fsd/tree/main/All_%20Practise_Project%20_PDF)
 
                       ✨PHASE 02✨
 
